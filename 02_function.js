@@ -33,5 +33,5 @@ function personalDetails(firstName,lastName,collegeName) {
             return"Addition";
         }
         var Addition=addThreeValue(10.23,600,40);
-        var Addition=addThreeValue("hello","good","morning");
+        var Addition=addThreeValue(" hello "," good ","morning");
       
