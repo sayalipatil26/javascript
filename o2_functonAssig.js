@@ -1,6 +1,6 @@
 
 function bankDetails ( bankName,accountNumber,City,pinCode){
-    console.log("bank details are follows  : ");
+    console.log("bank details are follows : ");
 
     //here some bank details : 
     console.log( "HDFC Bank",8956782345,'Pune',631202,"Pune");
